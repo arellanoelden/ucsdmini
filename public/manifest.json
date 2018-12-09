@@ -1,0 +1,25 @@
+{
+  "short_name": "ucsdmini",
+  "name": "ucsdmini",
+  "icons": [
+    {
+      "src": "UCSD_Seal_48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "UCSD_Seal_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "UCSD_Seal_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#002856",
+  "theme_color": "#002856",
+  "display": "standalone"
+}
